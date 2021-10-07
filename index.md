@@ -4,7 +4,7 @@ title:  Richard Laugesen
 description: Richard Laugesen
 ---
 
-### Hi, I'm Richard. A hydrologist & data scientist from Australia trying to improve water-sensitive decision making.
+Hi, I'm Richard. A scientist & data-nerd from Australia trying to improve water-sensitive decision making.
 
 I use this site to create (hopefully) interesting content for people to read. Whether that be general [thoughts and opinions](/writing) or academic [publications](/publications).
 
