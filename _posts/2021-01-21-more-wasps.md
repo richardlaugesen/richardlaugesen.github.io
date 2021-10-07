@@ -9,7 +9,7 @@ tags:
 
 ---
 
-![Wasp by Marvel]("/images/marvel-wasp.png")
+![Wasp by Marvel](/images/marvel-wasp.png)
 
 We recently moved to a new suburb in Canberra and a wasp nest has sprung up in the courtyard.
 

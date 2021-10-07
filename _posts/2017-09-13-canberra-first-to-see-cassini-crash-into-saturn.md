@@ -8,7 +8,7 @@ tags:
 - Canberra
 ---
 
-![Artist’s impression of Cassini burning up in Saturn’s upper atmosphere. Credit: NASA/JPL-CALTECH](/images/cassini-breakup.jpg")
+![Artist’s impression of Cassini burning up in Saturn’s upper atmosphere. Credit: NASA/JPL-CALTECH](/images/cassini-breakup.jpg)
 
 The [Canberra Deep Space Communication Complex](https://en.wikipedia.org/wiki/Canberra_Deep_Space_Communication_Complex) will be the first place on Earth to receive the data from [Cassini](https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens) as it crashes into Saturn in a few days. We live half an hour away, and so my 5 year old daughter and I are very excited!
 

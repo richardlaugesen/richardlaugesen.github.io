@@ -20,8 +20,8 @@ The best advice is to remove them is to use a fast knock down insecticide spray 
 One is a nest of Roplalidia Plebeiana and the other three nests are Polistes Humilis. Names like that make the wasps sound very clever.
 
 ![Roplalidia Plebeiana wasp nest](/images/wasps-roplalidia-plebeina.jpeg)
-![Polistes Humilis wasp nest](/images/wasps-polistes-humilis-1.jpeg')
-![Polistes Humilis wasp nest](/images/wasps-polistes-humilis-2.jpeg')
+![Polistes Humilis wasp nest](/images/wasps-polistes-humilis-1.jpeg)
+![Polistes Humilis wasp nest](/images/wasps-polistes-humilis-2.jpeg)
 
 I found this [PDF article](http://www.xcsconsulting.com.au/pdf/Paper_Wasps_of_Canberra.pdf) really useful for identifying the species.
 
