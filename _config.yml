@@ -48,8 +48,8 @@ google_analytics: UA-89112715-1
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://richardlaugesen.github.io
-enforce_ssl: https://richardlaugesen.github.io
+url: http://richardlaugesen.com
+enforce_ssl: https://richardlaugesen.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
