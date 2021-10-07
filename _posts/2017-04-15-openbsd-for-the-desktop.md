@@ -11,7 +11,7 @@ tags:
 
 ---
 
-![Gotta love the OpenBSD art! Copyright [Theo de Raadt](http://www.openbsd.org/art1.html)](/assets/img/openbsd-banner1.gif)
+![Gotta love the OpenBSD art! Copyright [Theo de Raadt](http://www.openbsd.org/art1.html)](/images/openbsd-banner1.gif)
 
 [OpenBSD v6.1](http://www.openbsd.org/61.html) was released a few days ago and I got curious - could it be used as an everyday desktop environment?
 

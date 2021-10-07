@@ -10,7 +10,7 @@ tags:
  - Courage
 ---
 
-![Illustration by [Scott Adams](http://dilbert.com)](/assets/img/dilbert-job-interview.jpg)
+![Illustration by [Scott Adams](http://dilbert.com)](/images/dilbert-job-interview.jpg)
 
 For those about to interview, answering that opening question can be tough.
 
