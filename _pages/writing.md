@@ -7,7 +7,7 @@ permalink: /writing/
 <div class="posts">
   {% for post in site.posts %}
       <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
+        <p>{{ post.title }}</p>
       </a>
   {% endfor %}
 </div>
