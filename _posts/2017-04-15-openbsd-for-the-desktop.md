@@ -3,8 +3,6 @@ layout: post
 title: OpenBSD for the desktop
 description: Tried OpenBSD as a desktop, it was okay
 excerpt: Could it be used as an everyday desktop environment?
-image:
-  thumb: openbsd-banner1.gif
 tags:
 - Computing
 - OpenBSD
