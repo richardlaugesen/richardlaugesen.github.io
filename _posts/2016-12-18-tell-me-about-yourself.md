@@ -3,14 +3,10 @@ layout: post
 title:  Tell me about yourself
 description: Simple approach to handle that terrifying interview question
 excerpt: Simple approach to handle that terrifying interview question
-image:
-  thumb: dilbert-job-interview.jpg
 tags:
  - Employment
  - Courage
 ---
-
-![Illustration by [Scott Adams](http://dilbert.com)](/images/dilbert-job-interview.jpg)
 
 For those about to interview, answering that opening question can be tough.
 
@@ -27,7 +23,3 @@ Don't tell them:
 - Anything about pets, travel, or hobbies
 
 Writing it down first and practicing till it sounds natural is probably a good idea too.
-
----
-
-Thanks to [Salihan Laugesen](https://ecoyarns.com.au) for reading drafts of this.

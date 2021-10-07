@@ -9,8 +9,6 @@ tags:
 
 ---
 
-![Gotta love the OpenBSD art! Copyright [Theo de Raadt](http://www.openbsd.org/art1.html)](/images/openbsd-banner1.gif)
-
 [OpenBSD v6.1](http://www.openbsd.org/61.html) was released a few days ago and I got curious - could it be used as an everyday desktop environment?
 
 The install was much better than last time I tried (v5?). Got it to the point of a running Gnome, Firefox, and Emacs fairly quickly. This surprised me because it has been a really long time since I used any BSD and I’m now a complete beginner. It was very similar to Linux however and felt sufficiently familiar.
