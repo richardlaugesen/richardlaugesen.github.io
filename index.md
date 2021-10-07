@@ -1,5 +1,7 @@
 ---
 layout: default
+title:  Richard Laugesen
+description: Richard Laugesen
 ---
 
 ### Hi, I'm Richard. A hydrologist & data scientist from Australia trying to improve water-sensitive decision making.
