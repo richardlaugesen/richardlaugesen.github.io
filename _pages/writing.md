@@ -6,9 +6,12 @@ permalink: /writing/
 
 <div class="posts">
   {% for post in site.posts %}
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <p>{{ post.title }}</p>
-      </a>
+    <p class="post_date"></p>
+    <p>
+        {{ post.date | date: "%B %e, %Y" }} &nbsp;&nbsp; 
+        {{ post.title }}
+        (<a href="{{ site.baseurl }}{{ post.url }}">read</a>)
+    </p>
   {% endfor %}
 </div>
 
