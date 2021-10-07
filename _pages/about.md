@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  About
-description: About
+permalink: /about/
 ---
 
 - Senior hydrologist & data scientist at the Bureau of Meteorology in Australia. 
