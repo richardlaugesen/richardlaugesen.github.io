@@ -4,11 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-# Books
+## Books
 
 O’Toole J. M., and R. Laugesen (2011), Developing specialist language styles: Research and Application, Boraga Academic, ISBN:978-1-74130-9515
 
-# Journals
+## Journals
 
 D. McInerney, M. Thyer, D. Kavetski, R. Laugesen, N. K. Tuteja, G. Kuczera (2019), Multi-temporal Hydrological residual error modelling for seamless sub-seasonal streamflow forecasting, Water Resource (under author review)
 
@@ -20,7 +20,7 @@ Xiaoyong S. Z., G. E. Amirthanathan, M. A. Bari, R. M. Laugesen, D. Shin, D. M. 
 
 O’Toole, J.M., S. Zangmo, and R. Laugesen (2016), Convenient and equivalent? Multiple choice and gap-filling cloze tests, Language Testing, Bhutan Journal of Research and Development, 1321-4585
 
-# Conferences
+## Conferences
 
 M. Tuteja, U. Khan, G. E. Amirthanathan, M. A. Bari, G Kociuba, R. Laugesen, N. K. Tuteja (2019), Australian coastal catchment river discharge dataset for marine reanalysis modelling and forecasting application, 23rd International Congress on Modelling and Simulation, Canberra, Australia, 1 to 6 December 2019
 
