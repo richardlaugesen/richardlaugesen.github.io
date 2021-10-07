@@ -8,4 +8,4 @@ description: Richard Laugesen
 
 I use this site to create (hopefully) interesting content for people to read. Whether that be general [thoughts and opinions](/writing) or academic [publications](/publications).
 
-You can follow me on [twitter](https://twitter.com/richardlaugesen) or [linkedin](https://www.linkedin.com/in/richardlaugesen/).
+You can connect with me on [twitter](https://twitter.com/richardlaugesen) or [linkedin](https://www.linkedin.com/in/richardlaugesen/).
