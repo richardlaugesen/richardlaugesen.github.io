@@ -11,6 +11,8 @@ tags:
 
 [OpenBSD v6.1](http://www.openbsd.org/61.html) was released a few days ago and I got curious - could it be used as an everyday desktop environment?
 
+![Gotta love the OpenBSD art! Copyright [Theo de Raadt](http://www.openbsd.org/art1.html)](/images/openbsd-banner1.gif)
+
 The install was much better than last time I tried (v5?). Got it to the point of a running Gnome, Firefox, and Emacs fairly quickly. This surprised me because it has been a really long time since I used any BSD and I’m now a complete beginner. It was very similar to Linux however and felt sufficiently familiar.
 
 I used it for a few days as my primary desktop environment. The UI seemed a bit laggy but I’m guessing that was because I was running it in a virtual machine. And in general the experience felt a bit crippled and awkward compared to my Fedora desktop. I guess this is just because I don’t understand it and maybe those feelings would vanish with a bit of experience. The man pages and built in documentation are outstanding. And the small amount of code I looked at was very clean.

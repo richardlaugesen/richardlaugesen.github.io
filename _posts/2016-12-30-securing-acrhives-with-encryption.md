@@ -26,3 +26,4 @@ gpg -d archive.tgz.gpg | tar xz
 ```
 
 This uses [symmetric encryption](https://en.wikipedia.org/wiki/Symmetric-key_algorithm) with an [AES128](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) cipher. AES128 is sufficient to protect classified information up to the SECRET level. Good enough for me.
+

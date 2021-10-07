@@ -8,6 +8,8 @@ tags:
  - Courage
 ---
 
+![Illustration by [Scott Adams](http://dilbert.com)](/images/dilbert-job-interview.jpg)
+
 For those about to interview, answering that opening question can be tough.
 
 Here is a simple approach to handle it that should only take about 1 minute.
