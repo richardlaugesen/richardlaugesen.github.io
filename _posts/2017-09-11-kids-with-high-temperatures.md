@@ -3,6 +3,7 @@ layout: post
 title: Kids with high temperatures
 description: Recent visit to the doctor results in a great education
 excerpt: High core body temperatures do not cause seizures or brain damage
+image: /images/richard-small.jpg
 tags:
 - Daddy
 - Health

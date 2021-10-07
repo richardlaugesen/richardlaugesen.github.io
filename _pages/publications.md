@@ -2,6 +2,7 @@
 layout: no_title
 title: Publications
 permalink: /publications/
+image: /images/richard-small.jpg
 ---
 
 ## Books

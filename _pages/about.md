@@ -2,6 +2,7 @@
 layout: no_title
 title:  About
 permalink: /about/
+image: /images/richard-small.jpg
 ---
 
 - Senior hydrologist & data scientist at the Bureau of Meteorology in Australia. 

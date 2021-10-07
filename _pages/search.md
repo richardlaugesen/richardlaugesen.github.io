@@ -2,6 +2,7 @@
 layout: page
 title: Search
 permalink: /search/
+image: /images/richard-small.jpg
 ---
 
 <div id="search-container">

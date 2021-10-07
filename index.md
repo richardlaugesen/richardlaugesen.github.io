@@ -2,6 +2,7 @@
 layout: default
 title:  Richard Laugesen
 description: Richard Laugesen
+image: /images/richard-small.jpg
 ---
 
 Hi, I'm Richard. A scientist from Australia trying to improve water-sensitive decision making.

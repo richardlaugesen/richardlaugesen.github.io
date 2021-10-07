@@ -3,6 +3,7 @@ layout: post
 title: Canberra is first to see Cassini crash into Saturn
 description: Cassini is crashing into Saturn on Friday but the Deep Space Communication Complex in Canberra is closed
 excerpt: We live half an hour away, and so my 5 year old daughter and I are very excited!
+image: /images/richard-small.jpg
 tags:
 - Space
 - Canberra

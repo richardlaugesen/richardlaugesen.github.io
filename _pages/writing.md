@@ -2,6 +2,7 @@
 layout: no_title
 title: Writing
 permalink: /writing/
+image: /images/richard-small.jpg
 ---
 
 <div class="posts">

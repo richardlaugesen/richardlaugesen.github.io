@@ -3,6 +3,7 @@ layout: post
 title: More wasps in Canberra
 description: New suburb and new (friendly) wasps
 excerpt: They are solitary rather than social and the mum helps out in the garden by catching and feeding spiders and catalipilers to her babies.
+image: /images/richard-small.jpg
 tags:
 - Canberra
 - Animals

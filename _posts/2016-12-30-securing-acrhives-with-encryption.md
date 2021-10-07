@@ -3,6 +3,7 @@ layout: post
 title:  Securing archives with encryption
 description: Securely archive a directory of files
 excerpt: Securely archive a directory of files
+image: /images/richard-small.jpg
 tags:
  - Security
  - Linux
