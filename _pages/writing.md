@@ -13,3 +13,4 @@ permalink: /writing/
     </article>
   {% endfor %}
 </div>
+
