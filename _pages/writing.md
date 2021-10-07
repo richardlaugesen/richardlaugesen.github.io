@@ -5,6 +5,8 @@ permalink: /writing/
 image: /images/richard-small.jpg
 ---
 
+Personal brand? Not much of that going on here. Just whatever I thought may be useful to others, or my future self, at the time of writing.
+
 <div class="posts">
   {% for post in site.posts %}
     <p class="post_date"></p>
