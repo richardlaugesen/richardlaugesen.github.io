@@ -6,7 +6,7 @@ image: /images/richard-small.jpg
 ---
 
 - Senior hydrologist & data scientist at the Bureau of Meteorology in Australia. 
-- PhD candidate at University of Adelaide - how valuable are your forecasts? 
+- PhD candidate at University of Adelaide - [how valuable are your forecasts?](/publications/)
 - Interested in water-sensitive decisions & floods
 - Live in Canberra, Australia
 - Play guitar & learning piano
