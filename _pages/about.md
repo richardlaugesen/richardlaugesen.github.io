@@ -10,5 +10,8 @@ image: /images/richard-small.jpg
 - Interested in water-sensitive decisions & floods
 - Live in Canberra, Australia
 - Play guitar & learning piano
+- Learning Indonesian & Malay
+- Prefer fixing things over buying them
+- [Haemophilia A](https://en.wikipedia.org/wiki/Haemophilia_A)
 
 ![Richard](/images/richard-medium.jpg)
