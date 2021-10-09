@@ -11,13 +11,15 @@ O’Toole J. M., and R. Laugesen (2011), Developing specialist language styles: 
 
 ## Journals
 
-D. McInerney, M. Thyer, D. Kavetski, R. Laugesen, N. K. Tuteja, G. Kuczera (2019), Multi-temporal Hydrological residual error modelling for seamless sub-seasonal streamflow forecasting, Water Resource (under author review)
+McInerney, D., Thyer, M., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N., & Kuczera, G. (2021). Improving the reliability of sub-seasonal forecasts of high and low flows by using a flow-dependent non-parametric model. Water Resources Research, 57, e2020WR029317. [https://doi.org/10.1029/2020WR029317](https://doi.org/10.1029/2020WR029317)
 
-U. Khan, F.J. Cook, R. Laugesen, M. M. Hasan, K. Plastow, G. Amirthanathan, M. Bari and N. K. Tuteja (2018), Development of catchment water quality models within nowcasting system for the Great Barrier Reef, Journal of Environmental Modelling and Software (under journal review)
+D. McInerney, M. Thyer, D. Kavetski, R. Laugesen, N. K. Tuteja, G. Kuczera (2020), Multi‐temporal Hydrological Residual Error Modeling for Seamless Subseasonal Streamflow Forecasting, Water Resource Research, 56, 11, [https://doi.org/10.1029/2019WR026979](https://doi.org/10.1029/2019WR026979)
+
+U. Khan, F.J. Cook, R. Laugesen, M. M. Hasan, K. Plastow, G. Amirthanathan, M. Bari and N. K. Tuteja (2020), Development of catchment water quality models within a realtime status and forecast system for the Great Barrier Reef, Journal of Environmental Modelling and Software, 132, 104790, ISSN 1364-8152, [https://doi.org/10.1016/j.envsoft.2020.104790](https://doi.org/10.1016/j.envsoft.2020.104790)
 
 S Zangmo, R Laugesen, JM O'Toole, and K Gyeltshen (2018), Cloze as a measure of specialist language difficulties: Write-in or multiple choice?, Bhutan Journal of Research and Development, Volume 7-12, 1321-4585
 
-Xiaoyong S. Z., G. E. Amirthanathan, M. A. Bari, R. M. Laugesen, D. Shin, D. M. Kent, A. M. Macdonald, M. E. Turner, and N. K. Tuteja (2016), How streamflow has changed across Australia since the 1950s: evidence from the network of hydrologic reference stations, Hydrology and Earth System Sciences Journal, 20, 3947-3965.
+Zhang, X. S., Amirthanathan, G. E., Bari, M. A., Laugesen, R. M., Shin, D., Kent, D. M., MacDonald, A. M., Turner, M. E., and Tuteja, N. K.: How streamflow has changed across Australia since the 1950s: evidence from the network of hydrologic reference stations, Hydrol. Earth Syst. Sci., 20, 3947–3965, (https://doi.org/10.5194/hess-20-3947-2016)[https://doi.org/10.5194/hess-20-3947-2016], 2016. 
 
 O’Toole, J.M., S. Zangmo, and R. Laugesen (2016), Convenient and equivalent? Multiple choice and gap-filling cloze tests, Language Testing, Bhutan Journal of Research and Development, 1321-4585
 
