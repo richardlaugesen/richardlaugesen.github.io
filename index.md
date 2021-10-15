@@ -5,7 +5,7 @@ description: Richard Laugesen
 image: /images/richard-small.jpg
 ---
 
-Hi, I'm Richard. A scientist from Australia trying to improve water-sensitive decision making.
+Hi, I'm Richard. A scientist from Australia trying to improve water security.
 
 I use this site to share interesting (hopefully) content, whether that be general [thoughts and opinions](/writing) or academic [publications](/publications).
 
