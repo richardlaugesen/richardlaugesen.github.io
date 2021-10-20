@@ -5,7 +5,9 @@ permalink: /research/
 image: /images/richard-small.jpg
 ---
 
-I'm interested in the value of forecasts for making decisions, hydrological modelling, impact of runoff on reefs, and water security. Feel free to [contact me](/contact) if you have a related publication to review, I peer review around 6 per year. 
+I'm interested in the value of forecasts for making decisions, hydrological modelling, impact of runoff on reefs, and water security. 
+
+Feel free to [contact me](/contact) for collaborations or if you have a related publication to review, I peer review around 6 per year. 
 
 [![ORCiD](/images/orcid_16x16.png) ORCiD](https://orcid.org/0000-0002-3811-5845) and [Google Scholar](https://scholar.google.com.au/citations?user=kVIqLq8AAAAJ).
 
