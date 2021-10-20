@@ -1,11 +1,15 @@
 ---
 layout: no_title
-title: Publications
-permalink: /publications/
+title: Research
+permalink: /research/
 image: /images/richard-small.jpg
 ---
 
-[![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png) ORCiD](https://orcid.org/0000-0002-3811-5845) and [Google Scholar](https://scholar.google.com.au/citations?user=kVIqLq8AAAAJ)
+# Research
+
+I'm interested in the value of forecasts, hydrological modelling, impact of runoff on reefs, and water security decision-making. Feel free to [contact me](/contact) if you have something related to my interests to review, I peer review around 6 publications each year. My [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png) ORCiD](https://orcid.org/0000-0002-3811-5845) and [Google Scholar](https://scholar.google.com.au/citations?user=kVIqLq8AAAAJ).
+
+# Publications
 
 ## Books
 
