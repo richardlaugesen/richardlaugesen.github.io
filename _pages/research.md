@@ -15,7 +15,7 @@ Feel free to [contact me](/contact) to chat about a collaboration idea or if you
 
 O’Toole J. M., and R. Laugesen (2011), Developing specialist language styles: Research and Application, Boraga Academic, ISBN:978-1-74130-9515
 
-## Journals (6)
+## Journal publications (6)
 
 McInerney, D., Thyer, M., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N., & Kuczera, G. (2021). Improving the reliability of sub-seasonal forecasts of high and low flows by using a flow-dependent non-parametric model. Water Resources Research, 57, e2020WR029317. [https://doi.org/10.1029/2020WR029317](https://doi.org/10.1029/2020WR029317)
 
@@ -25,11 +25,11 @@ U. Khan, F.J. Cook, R. Laugesen, M. M. Hasan, K. Plastow, G. Amirthanathan, M. B
 
 S Zangmo, R Laugesen, JM O'Toole, and K Gyeltshen (2018), Cloze as a measure of specialist language difficulties: Write-in or multiple choice?, Bhutan Journal of Research and Development, Volume 7-12, 1321-4585
 
-Zhang, X. S., Amirthanathan, G. E., Bari, M. A., Laugesen, R. M., Shin, D., Kent, D. M., MacDonald, A. M., Turner, M. E., and Tuteja, N. K.: How streamflow has changed across Australia since the 1950s: evidence from the network of hydrologic reference stations, Hydrol. Earth Syst. Sci., 20, 3947–3965, (https://doi.org/10.5194/hess-20-3947-2016)[https://doi.org/10.5194/hess-20-3947-2016], 2016. 
+Zhang, X. S., Amirthanathan, G. E., Bari, M. A., Laugesen, R. M., Shin, D., Kent, D. M., MacDonald, A. M., Turner, M. E., and Tuteja, N. K.: How streamflow has changed across Australia since the 1950s: evidence from the network of hydrologic reference stations, Hydrol. Earth Syst. Sci., 20, 3947–3965, [https://doi.org/10.5194/hess-20-3947-2016](https://doi.org/10.5194/hess-20-3947-2016), 2016. 
 
 O’Toole, J.M., S. Zangmo, and R. Laugesen (2016), Convenient and equivalent? Multiple choice and gap-filling cloze tests, Language Testing, Bhutan Journal of Research and Development, 1321-4585
 
-## Conferences (26)
+## Conferences publications (26)
 
 Thyer, M., McInerney, D., Kavetski, D., Laugesen, R., Tuteja, N., and Kuczera, G.: Do you want Seamless Subseasonal Streamflow Forecasts? Ask MuTHRE!, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-3714, [https://doi.org/10.5194/egusphere-egu21-3714](https://doi.org/10.5194/egusphere-egu21-3714), 2021. 
 
@@ -90,5 +90,5 @@ Tuteja, N. K., D. Shin, R. Laugesen, U. Khan, Q. Shao, E. Wang, M. Li, H. Zheng,
 Numerous internal reports and business proposals.
 
 <div class="date">
-  Updated on 9th October 2021
+  Updated on 25th October 2021
 </div>
