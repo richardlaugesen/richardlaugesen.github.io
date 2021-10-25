@@ -55,7 +55,7 @@ Hapuarachchi P., A. Kabir, S. Zhang, N. K. Tuteja, D. Enever, D. Kent, M. Bari, 
 
 Zangmo, S., R. Laugesen, and J. M. O’Toole (2016), Cloze as a measure of specialist language difficulties: Write-in or multiple choice? Spring Research Convention, Samste College of Education, Royal University of Bhutan, Samste, Bhutan May 26-27, Research Abstracts p. 23
 
-Lerat J., A. Schepen, R. Laugesen, U. Khan, C. Pickett-Heaps, D. Shin, and Q. J. Wang (2015), Value of ensemble merging for seasonal streamflow forecasts, International Congress on Modelling and Simulation
+Lerat J., A. Schepen, R. Laugesen, U. Khan, C. Pickett-Heaps, D. Shin, and Q. J. Wang (2015), Value of ensemble merging for seasonal streamflow forecasts, International Congress on Modelling and Simulation, [http://doi.org/102.100.100/91305](http://doi.org/102.100.100/91305) 
 
 Shin D., A. MacDonald, D. Kent, P. Hapuarachchi, K. Plastow, R. Laugesen, C. Pickett-Heaps, J. Lerat, A. Kabir, N. K. Tuteja (2015), Operational modelling system development for short-term and seasonal streamflow forecasting services, 36th Hydrology and Water Resources Symposium
 
@@ -75,7 +75,7 @@ Kabir, A., R. Laugesen, D. Shin, N. K. Tuteja, A. MacDonald, D. Kent, and B. Le 
 
 MacDonald A., D. Kent, R. Laugesen, A. Kabir, N. K. Tuteja, A. Schepen, T. Wilson, B. Le, and D. Shin (2013), WAFARi 2.0: Upgrade of an operational modelling system for the seasonal streamflow forecasting service of the Bureau of Meteorology, International Congress on Modelling and Simulation
 
-Tuteja, N. K., Q. J. Wang, G. Kuczera, D. Shin, and R. Laugesen (2012), Application of seasonal climate forecasting to hydrologic forecasting and water resource management, International Conference on Climate, Water and Policy (Korea)
+Tuteja, N. K., Q. J. Wang, G. Kuczera, D. Shin, and R. Laugesen (2012), Application of seasonal climate forecasting to hydrologic forecasting and water resource management, International Conference on Climate, Water and Policy (Korea), [http://doi.org/102.100.100/99547](http://doi.org/102.100.100/99547) 
 
 Tuteja, N. K., D. Shin, R. Laugesen, Q. Shao, E. Wang, G. K. Kuczera, M. Thyer, D. Kavetski, G. Evin, M. Li, H. Zheng, A. MacDonald, U. Khan, B. Le, and T. Chia (2011), Experimental Evaluation of the Dynamic Seasonal Streamflow Forecasting Approach in Australian Water Supply Catchments, Australian Water Association
 
@@ -85,7 +85,7 @@ Furst, J. E., R. Laugesen, P. Dastoor, and C. McNeil (2002), Photoluminescence i
 
 ## Technical reports
 
-Tuteja, N. K., D. Shin, R. Laugesen, U. Khan, Q. Shao, E. Wang, M. Li, H. Zheng, G. K. Kuczera, D. Kavetski, G. Evin, M. Thyer, A. MacDonald, B. Le, and T. Chia (2011), Experimental Evaluation of the Dynamic Seasonal Streamflow Forecasting Approach, Bureau of Meteorology
+Tuteja, N. K., D. Shin, R. Laugesen, U. Khan, Q. Shao, E. Wang, M. Li, H. Zheng, G. K. Kuczera, D. Kavetski, G. Evin, M. Thyer, A. MacDonald, B. Le, and T. Chia (2011), Experimental Evaluation of the Dynamic Seasonal Streamflow Forecasting Approach, Bureau of Meteorology, [http://doi.org/102.100.100/104889](http://doi.org/102.100.100/104889)
 
 Numerous internal reports and business proposals.
 
