@@ -63,7 +63,7 @@ Lerat J., C. A. Pickett-Heaps, D. Shin, S. Zhou, P. Feikema, U. Khan, R. Laugese
 
 Lerat, J., Tuteja, N., Shin, D., Laugesen, R., MacDonald, A., Khan, U., Kent, D. and Pickett-Heaps, C. (2014), Driving a Hydrological Model with Downscaled Climate Forecasts for Seasonal Sreamflow Forecasting, International River Symposium
 
-Shin, D., R. Laugesen, A. Kabir, A. MacDonald, D. Kent, B. Le, and N. K. Tuteja (2013), POAMA climate forecasts for seasonal streamflow forecasting, Observing, Seventh CAWCR Workshop: Estimating and Forecasting Rainfall: From Science to Applications.
+Shin, D., R. Laugesen, A. Kabir, A. MacDonald, D. Kent, B. Le, and N. K. Tuteja (2013), POAMA climate forecasts for seasonal streamflow forecasting, Observing, Seventh CAWCR Workshop: Estimating and Forecasting Rainfall: From Science to Applications. [http://www.bom.gov.au/research/publications/cawcrreports/CTR_066.pdf](http://www.bom.gov.au/research/publications/cawcrreports/CTR_066.pdf)
 
 Shin, D., N. K. Tuteja, S. Zhou, A. Schepen, J. Perkins, A. Kabir, D. Kent, R. Laugesen, B. Le, T. Wilson, C. Hawksworth, A. MacDonald, D. Jayasuriya and P. M. Feikema (2013), Seasonal Hydrologic Forecasting for Water Resources Management. AGU Chapman Conference
 
