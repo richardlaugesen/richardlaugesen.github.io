@@ -5,11 +5,11 @@ permalink: /research/
 image: /images/richard-small.jpg
 ---
 
-I'm interested in water security, particularly how forecasts can improve decisions.
+I'm interested in water security, particularly how forecasts can improve decisions. [![ORCiD](/images/orcid_16x16.png) ORCiD](https://orcid.org/0000-0002-3811-5845), [Google Scholar](https://scholar.google.com.au/citations?user=kVIqLq8AAAAJ).
 
-Feel free to [contact me](/contact) to chat about a collaboration idea or if you have a related publication to review, I peer review around 6 per year. 
+Feel free to [contact me](/contact) to chat about a collaboration idea or if you have a related publication to review, I peer review around 6 per year.
 
-[![ORCiD](/images/orcid_16x16.png) ORCiD](https://orcid.org/0000-0002-3811-5845) and [Google Scholar](https://scholar.google.com.au/citations?user=kVIqLq8AAAAJ).
+---
 
 ## Books
 
@@ -25,13 +25,13 @@ U. Khan, F.J. Cook, R. Laugesen, M. M. Hasan, K. Plastow, G. Amirthanathan, M. B
 
 S Zangmo, R Laugesen, JM O'Toole, and K Gyeltshen (2018), Cloze as a measure of specialist language difficulties: Write-in or multiple choice?, Bhutan Journal of Research and Development, Volume 7-12, 1321-4585
 
-Zhang, X. S., Amirthanathan, G. E., Bari, M. A., Laugesen, R. M., Shin, D., Kent, D. M., MacDonald, A. M., Turner, M. E., and Tuteja, N. K.: How streamflow has changed across Australia since the 1950s: evidence from the network of hydrologic reference stations, Hydrol. Earth Syst. Sci., 20, 3947–3965, [https://doi.org/10.5194/hess-20-3947-2016](https://doi.org/10.5194/hess-20-3947-2016), 2016. 
+Zhang, X. S., Amirthanathan, G. E., Bari, M. A., Laugesen, R. M., Shin, D., Kent, D. M., MacDonald, A. M., Turner, M. E., and Tuteja, N. K.: How streamflow has changed across Australia since the 1950s: evidence from the network of hydrologic reference stations, Hydrol. Earth Syst. Sci., 20, 3947–3965, [https://doi.org/10.5194/hess-20-3947-2016](https://doi.org/10.5194/hess-20-3947-2016), 2016.
 
 O’Toole, J.M., S. Zangmo, and R. Laugesen (2016), Convenient and equivalent? Multiple choice and gap-filling cloze tests, Language Testing, Bhutan Journal of Research and Development, 1321-4585
 
 ## Conferences publications (26)
 
-Thyer, M., McInerney, D., Kavetski, D., Laugesen, R., Tuteja, N., and Kuczera, G.: Do you want Seamless Subseasonal Streamflow Forecasts? Ask MuTHRE!, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-3714, [https://doi.org/10.5194/egusphere-egu21-3714](https://doi.org/10.5194/egusphere-egu21-3714), 2021. 
+Thyer, M., McInerney, D., Kavetski, D., Laugesen, R., Tuteja, N., and Kuczera, G.: Do you want Seamless Subseasonal Streamflow Forecasts? Ask MuTHRE!, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-3714, [https://doi.org/10.5194/egusphere-egu21-3714](https://doi.org/10.5194/egusphere-egu21-3714), 2021.
 
 McInerney, Thyer, M., D., Kavetski, D., Laugesen, R., Tuteja, N., and Kuczera, G.: Multi-temporal Hydrological Residual Error Modellingfor Seamless Subseasonal Streamflow Forecasting, HWRS2021, 31 Aug-1 Sep 2021, Virtual
 
@@ -55,7 +55,7 @@ Hapuarachchi P., A. Kabir, S. Zhang, N. K. Tuteja, D. Enever, D. Kent, M. Bari, 
 
 Zangmo, S., R. Laugesen, and J. M. O’Toole (2016), Cloze as a measure of specialist language difficulties: Write-in or multiple choice? Spring Research Convention, Samste College of Education, Royal University of Bhutan, Samste, Bhutan May 26-27, Research Abstracts p. 23
 
-Lerat J., A. Schepen, R. Laugesen, U. Khan, C. Pickett-Heaps, D. Shin, and Q. J. Wang (2015), Value of ensemble merging for seasonal streamflow forecasts, International Congress on Modelling and Simulation, [http://doi.org/102.100.100/91305](http://doi.org/102.100.100/91305) 
+Lerat J., A. Schepen, R. Laugesen, U. Khan, C. Pickett-Heaps, D. Shin, and Q. J. Wang (2015), Value of ensemble merging for seasonal streamflow forecasts, International Congress on Modelling and Simulation, [http://doi.org/102.100.100/91305](http://doi.org/102.100.100/91305)
 
 Shin D., A. MacDonald, D. Kent, P. Hapuarachchi, K. Plastow, R. Laugesen, C. Pickett-Heaps, J. Lerat, A. Kabir, N. K. Tuteja (2015), Operational modelling system development for short-term and seasonal streamflow forecasting services, 36th Hydrology and Water Resources Symposium
 
@@ -75,7 +75,7 @@ Kabir, A., R. Laugesen, D. Shin, N. K. Tuteja, A. MacDonald, D. Kent, and B. Le 
 
 MacDonald A., D. Kent, R. Laugesen, A. Kabir, N. K. Tuteja, A. Schepen, T. Wilson, B. Le, and D. Shin (2013), WAFARi 2.0: Upgrade of an operational modelling system for the seasonal streamflow forecasting service of the Bureau of Meteorology, International Congress on Modelling and Simulation
 
-Tuteja, N. K., Q. J. Wang, G. Kuczera, D. Shin, and R. Laugesen (2012), Application of seasonal climate forecasting to hydrologic forecasting and water resource management, International Conference on Climate, Water and Policy (Korea), [http://doi.org/102.100.100/99547](http://doi.org/102.100.100/99547) 
+Tuteja, N. K., Q. J. Wang, G. Kuczera, D. Shin, and R. Laugesen (2012), Application of seasonal climate forecasting to hydrologic forecasting and water resource management, International Conference on Climate, Water and Policy (Korea), [http://doi.org/102.100.100/99547](http://doi.org/102.100.100/99547)
 
 Tuteja, N. K., D. Shin, R. Laugesen, Q. Shao, E. Wang, G. K. Kuczera, M. Thyer, D. Kavetski, G. Evin, M. Li, H. Zheng, A. MacDonald, U. Khan, B. Le, and T. Chia (2011), Experimental Evaluation of the Dynamic Seasonal Streamflow Forecasting Approach in Australian Water Supply Catchments, Australian Water Association
 
