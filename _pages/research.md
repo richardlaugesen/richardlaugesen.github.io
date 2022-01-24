@@ -5,7 +5,7 @@ permalink: /research/
 image: /images/richard-small.jpg
 ---
 
-I'm interested in water security, particularly how forecasts can improve decisions. [![ORCiD](/images/orcid_16x16.png) ORCiD](https://orcid.org/0000-0002-3811-5845), [Google Scholar](https://scholar.google.com.au/citations?user=kVIqLq8AAAAJ).
+I'm interested in water security, particularly how forecasts can improve decisions ([ORCiD](https://orcid.org/0000-0002-3811-5845), [Google Scholar](https://scholar.google.com.au/citations?user=kVIqLq8AAAAJ)).
 
 Feel free to [contact me](/contact) to chat about a collaboration idea or if you have a related publication to review, I peer review around 6 per year.
 
