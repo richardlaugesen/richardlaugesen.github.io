@@ -13,13 +13,13 @@ Feel free to [contact me](/contact) to chat about a collaboration idea or if you
 
 ## Books
 
-O’Toole J. M., and R. Laugesen (2011), Developing specialist language styles: Research and Application, Boraga Academic, ISBN:978-1-74130-9515
+O’Toole J. M., and R. Laugesen (2011), **Developing specialist language styles: Research and Application**, Boraga Academic, ISBN:978-1-74130-9515
 
 ## Journal publications (6)
 
-McInerney, D., Thyer, M., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N., & Kuczera, G. (2021). Improving the reliability of sub-seasonal forecasts of high and low flows by using a flow-dependent non-parametric model. Water Resources Research, 57, e2020WR029317. [https://doi.org/10.1029/2020WR029317](https://doi.org/10.1029/2020WR029317)
+McInerney, D., Thyer, M., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N., & Kuczera, G. (2021). **Improving the reliability of sub-seasonal forecasts of high and low flows by using a flow-dependent non-parametric model.** Water Resources Research, 57, e2020WR029317. [https://doi.org/10.1029/2020WR029317](https://doi.org/10.1029/2020WR029317)
 
-D. McInerney, M. Thyer, D. Kavetski, R. Laugesen, N. K. Tuteja, G. Kuczera (2020), Multi‐temporal Hydrological Residual Error Modeling for Seamless Subseasonal Streamflow Forecasting, Water Resource Research, 56, 11, [https://doi.org/10.1029/2019WR026979](https://doi.org/10.1029/2019WR026979)
+D. McInerney, M. Thyer, D. Kavetski, R. Laugesen, N. K. Tuteja, G. Kuczera (2020), **Multi‐temporal Hydrological Residual Error Modeling for Seamless Subseasonal Streamflow Forecasting**, Water Resource Research, 56, 11, [https://doi.org/10.1029/2019WR026979](https://doi.org/10.1029/2019WR026979)
 
 U. Khan, F.J. Cook, R. Laugesen, M. M. Hasan, K. Plastow, G. Amirthanathan, M. Bari and N. K. Tuteja (2020), Development of catchment water quality models within a realtime status and forecast system for the Great Barrier Reef, Journal of Environmental Modelling and Software, 132, 104790, ISSN 1364-8152, [https://doi.org/10.1016/j.envsoft.2020.104790](https://doi.org/10.1016/j.envsoft.2020.104790)
 
