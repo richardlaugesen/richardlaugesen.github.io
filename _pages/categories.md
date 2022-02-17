@@ -2,7 +2,7 @@
 layout: no_title
 permalink: /categories/
 title: Categories
-image: /images/richard-small.jpg
+image: /images/reverie.png
 ---
 
 <div id="archives">

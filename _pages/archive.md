@@ -2,7 +2,7 @@
 layout: no_title
 permalink: /archive/
 title: Posts Archive
-image: /images/richard-small.jpg
+image: /images/reverie.png
 ---
 
 

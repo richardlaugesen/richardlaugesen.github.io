@@ -2,7 +2,7 @@
 layout: page
 title: Search
 permalink: /search/
-image: /images/richard-small.jpg
+image: /images/reverie.png
 ---
 
 <div id="search-container">

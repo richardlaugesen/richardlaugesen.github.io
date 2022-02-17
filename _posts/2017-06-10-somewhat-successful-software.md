@@ -3,7 +3,7 @@ layout: post
 title:  Somewhat successful software
 description: Some teachers found the software I wrote useful
 excerpt: two of them have been somewhat successful, many many more have not
-image: /images/richard-small.jpg
+image: /images/reverie.png
 tags:
 - Business
 - Software

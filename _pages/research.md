@@ -2,7 +2,8 @@
 layout: no_title
 title: Research
 permalink: /research/
-image: /images/richard-small.jpg
+image: /images/reverie.png
+redirect_from: /writing
 ---
 
 I'm interested in water security, particularly how forecasts can improve decisions ([ORCiD](https://orcid.org/0000-0002-3811-5845), [Google Scholar](https://scholar.google.com.au/citations?user=kVIqLq8AAAAJ)).

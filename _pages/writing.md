@@ -2,7 +2,7 @@
 layout: no_title
 title: Writing
 permalink: /writing/
-image: /images/richard-small.jpg
+image: /images/reverie.png
 ---
 
 Personal brand? Not much of that going on here. Just whatever I thought may be interesting to others, or my future self, at the time of writing.

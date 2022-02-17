@@ -3,7 +3,7 @@ layout: post
 title:  Twisted fire starter
 description: It's harder to start a fire than I thought
 excerpt: So embarrassing!
-image: /images/richard-small.jpg
+image: /images/reverie.png
 tags:
  - Survival
  - Manliness

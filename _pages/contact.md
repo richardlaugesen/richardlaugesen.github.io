@@ -2,7 +2,7 @@
 layout: no_title
 title: Contact
 permalink: /contact/
-image: /images/richard-small.jpg
+image: /images/reverie.png
 ---
 
 I'm best contacted by email at [hi@richardlaugesen.com](mailto://hi@richardlaugesen.com), go ahead and introduce yourself.

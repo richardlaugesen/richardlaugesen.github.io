@@ -3,7 +3,7 @@ layout: post
 title:  Destroy ZFS snapshots matching a keyword
 description: Destroy ZFS snapshots matching a keyword
 excerpt: Destroy ZFS snapshots matching a keyword
-image: /images/richard-small.jpg
+image: /images/reverie.png
 tags:
  - Security
  - Linux

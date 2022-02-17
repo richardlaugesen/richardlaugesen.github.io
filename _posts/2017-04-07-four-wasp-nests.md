@@ -3,7 +3,7 @@ layout: post
 title: Four wasp nests
 description: What to do about four nests of native Australian wasps?
 excerpt: All wasps were gone by the second week of May, and the nests became a great preschool show-and-tell activity.
-image: /images/richard-small.jpg
+image: /images/reverie.png
 tags:
 - Canberra
 - Animals
