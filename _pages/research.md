@@ -16,7 +16,11 @@ Feel free to [contact me](/contact) to chat about a collaboration idea or if you
 
 O’Toole J. M., and R. Laugesen (2011), Developing specialist language styles: Research and Application, Boraga Academic, ISBN:978-1-74130-9515
 
-## Journal publications (6)
+## Journal publications (8)
+
+Laugesen, R., Thyer, M., McInerney, D., and Kavetski, D.: Flexible forecast value metric suitable for a wide range of decisions: application using probabilistic subseasonal streamflow forecasts, Hydrol. Earth Syst. Sci. Discuss. [preprint], [https://doi.org/10.5194/hess-2022-65](https://doi.org/10.5194/hess-2022-65), in review, 2022. 
+
+McInerney, D., Thyer, M., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N., and Kuczera, G.: Seamless streamflow model provides forecasts at all scales from daily to monthly and matches the performance of non-seamless monthly model, Hydrol. Earth Syst. Sci. Discuss. [preprint], [https://doi.org/10.5194/hess-2021-589](https://doi.org/10.5194/hess-2021-589), in review, 2022. 
 
 McInerney, D., Thyer, M., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N., & Kuczera, G. (2021). Improving the reliability of sub-seasonal forecasts of high and low flows by using a flow-dependent non-parametric model. Water Resources Research, 57, e2020WR029317. [https://doi.org/10.1029/2020WR029317](https://doi.org/10.1029/2020WR029317)
 
@@ -30,11 +34,25 @@ Zhang, X. S., Amirthanathan, G. E., Bari, M. A., Laugesen, R. M., Shin, D., Kent
 
 O’Toole, J.M., S. Zangmo, and R. Laugesen (2016), Convenient and equivalent? Multiple choice and gap-filling cloze tests, Language Testing, Bhutan Journal of Research and Development, 1321-4585
 
-## Conferences publications (26)
+## Conferences publications (32)
+
+Laugesen, R., Thyer, M., McInerney, D., and Kavetski, D. (2022): A flexible approach for evaluating the value of probabilistic forecasts for different decision types and risk averse decision-makers, EGU General Assembly 2022, 23-27 May 2022, Vienna, Austria
+
+Kavetski, D., McInerney, D., Laugesen, R., Thyer, M., (2022): Improving sub-seasonal forecasts of high and low flows using a flow-dependent nonparametric model, EGU General Assembly 2022, 23-27 May 2022, Vienna, Austria
+
+Kavetski, D., McInerney, D., Thyer, M, Laugesen, R., Tuteja, N., & Kuczera, G. (2021): Seamless probabilistic streamflow forecasts from daily to monthly scales, STAHY2021, 16-17 September 2021, Valencia, Spain
+
+McInerney, D., Thyer, M., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N., & Kuczera, G. (2021): A flow-dependent non-parametric residual error model for improving sub-seasonal forecasts of high and low flows
+Number, STAHY2021, 16-17 September 2021, Valencia, Spain
+
+McInerney, D., Thyer, M., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N., & Kuczera, G. (2021), Improving sub-seasonal streamflow forecasts across flow
+regimes, 24th International Congress on Modelling and Simulation, [invited paper], December 2021. ISBN: 978-0-9872143-8-6. [https://doi.org/10.36334/modsim.2021.K5.mcinerney](https://doi.org/10.36334/modsim.2021.K5.mcinerney)
+
+Thyer, M., McInerney, D., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N. and Kuczera, G. (2021), Advances in subseasonal streamflow forecasting: An overview, December 2021. ISBN: 978-0-9872143-8-6. [https://doi.org/10.36334/modsim.2021.K5.thyer](https://doi.org/10.36334/modsim.2021.K5.thyer)
 
 Thyer, M., McInerney, D., Kavetski, D., Laugesen, R., Tuteja, N., and Kuczera, G.: Do you want Seamless Subseasonal Streamflow Forecasts? Ask MuTHRE!, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-3714, [https://doi.org/10.5194/egusphere-egu21-3714](https://doi.org/10.5194/egusphere-egu21-3714), 2021.
 
-McInerney, Thyer, M., D., Kavetski, D., Laugesen, R., Tuteja, N., and Kuczera, G.: Multi-temporal Hydrological Residual Error Modellingfor Seamless Subseasonal Streamflow Forecasting, HWRS2021, 31 Aug-1 Sep 2021, Virtual
+McInerney, Thyer, M., D., Kavetski, D., Laugesen, R., Tuteja, N., and Kuczera, G.: Multi-temporal Hydrological Residual Error Modelling for Seamless Subseasonal Streamflow Forecasting, HWRS2021, 31 Aug-1 Sep 2021, Virtual, ISBN: 978-1-925627-53-4
 
 M. Tuteja, U. Khan, G. E. Amirthanathan, M. A. Bari, G Kociuba, R. Laugesen, N. K. Tuteja (2019), Australian coastal catchment river discharge dataset for marine reanalysis modelling and forecasting application, 23rd International Congress on Modelling and Simulation, Canberra, Australia, 1 to 6 December 2019
 
