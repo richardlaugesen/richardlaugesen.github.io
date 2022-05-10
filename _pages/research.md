@@ -40,27 +40,27 @@ Laugesen, R., Thyer, M., McInerney, D., and Kavetski, D. (2022): A flexible appr
 
 Kavetski, D., McInerney, D., Laugesen, R., Thyer, M., (2022): Improving sub-seasonal forecasts of high and low flows using a flow-dependent nonparametric model, EGU General Assembly 2022, 23-27 May 2022, Vienna, Austria
 
-Kavetski, D., McInerney, D., Thyer, M, Laugesen, R., Tuteja, N., & Kuczera, G. (2021): Seamless probabilistic streamflow forecasts from daily to monthly scales, STAHY2021, 16-17 September 2021, Valencia, Spain
+Kavetski, D., McInerney, D., Thyer, M, Laugesen, R., Tuteja, N., & Kuczera, G. (2021): Seamless probabilistic streamflow forecasts from daily to monthly scales, International Association of Hydrological Sciences, Statistical Hydrology conference 2021 (STAHY2021), 16-17 September 2021, Valencia, Spain
 
 McInerney, D., Thyer, M., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N., & Kuczera, G. (2021): A flow-dependent non-parametric residual error model for improving sub-seasonal forecasts of high and low flows
-Number, STAHY2021, 16-17 September 2021, Valencia, Spain
+Number, International Association of Hydrological Sciences, Statistical Hydrology conference 2021 (STAHY2021), 16-17 September 2021, Valencia, Spain
 
 McInerney, D., Thyer, M., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N., & Kuczera, G. (2021), Improving sub-seasonal streamflow forecasts across flow
 regimes, 24th International Congress on Modelling and Simulation, [invited paper], December 2021. ISBN: 978-0-9872143-8-6. [https://doi.org/10.36334/modsim.2021.K5.mcinerney](https://doi.org/10.36334/modsim.2021.K5.mcinerney)
 
-Thyer, M., McInerney, D., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N. and Kuczera, G. (2021), Advances in subseasonal streamflow forecasting: An overview, December 2021. ISBN: 978-0-9872143-8-6. [https://doi.org/10.36334/modsim.2021.K5.thyer](https://doi.org/10.36334/modsim.2021.K5.thyer)
+Thyer, M., McInerney, D., Kavetski, D., Laugesen, R., Woldemeskel, F., Tuteja, N. and Kuczera, G. (2021), Advances in subseasonal streamflow forecasting: An overview, 24th International Congress on Modelling and Simulation, December 2021. ISBN: 978-0-9872143-8-6. [https://doi.org/10.36334/modsim.2021.K5.thyer](https://doi.org/10.36334/modsim.2021.K5.thyer)
 
 Thyer, M., McInerney, D., Kavetski, D., Laugesen, R., Tuteja, N., and Kuczera, G.: Do you want Seamless Subseasonal Streamflow Forecasts? Ask MuTHRE!, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-3714, [https://doi.org/10.5194/egusphere-egu21-3714](https://doi.org/10.5194/egusphere-egu21-3714), 2021.
 
-McInerney, Thyer, M., D., Kavetski, D., Laugesen, R., Tuteja, N., and Kuczera, G.: Multi-temporal Hydrological Residual Error Modelling for Seamless Subseasonal Streamflow Forecasting, HWRS2021, 31 Aug-1 Sep 2021, Virtual, ISBN: 978-1-925627-53-4
+McInerney, Thyer, M., D., Kavetski, D., Laugesen, R., Tuteja, N., and Kuczera, G.: Multi-temporal Hydrological Residual Error Modelling for Seamless Subseasonal Streamflow Forecasting, Hydrology and Water Resource Symposium HWRS2021, 31 Aug-1 Sep 2021, Virtual, ISBN: 978-1-925627-53-4
 
 M. Tuteja, U. Khan, G. E. Amirthanathan, M. A. Bari, G Kociuba, R. Laugesen, N. K. Tuteja (2019), Australian coastal catchment river discharge dataset for marine reanalysis modelling and forecasting application, 23rd International Congress on Modelling and Simulation, Canberra, Australia, 1 to 6 December 2019
 
 U. Khan, S. C. Wells, H.A.P. Hapuarachchi, S. J. Cole, M. Hasan, R. Laugesen, R.  J. Moore, M. Bari, N. K. Tuteja (2019), Streamflow simulations for gauged and ungauged catchments of the Great Barrier Reef region using a distributed hydrological model, 23rd International Congress on Modelling and Simulation, Canberra, Australia, 1 to 6 December 2019
 
-A. Kabir, M. Hasan, H.A.P. Hapuarachchi, X.S. Zhang, J. Liyanage, N. Gammage, R. Laugesen, K. Plastow, A. MacDonald, M.A. Bari and N.K. Tuteja (2018), Evaluation of multi-model rainfall forecasts for the national 7-day ensemble streamflow forecasting service, HWRS2018, 3-8 December 2018, Melbourne
+A. Kabir, M. Hasan, H.A.P. Hapuarachchi, X.S. Zhang, J. Liyanage, N. Gammage, R. Laugesen, K. Plastow, A. MacDonald, M.A. Bari and N.K. Tuteja (2018), Evaluation of multi-model rainfall forecasts for the national 7-day ensemble streamflow forecasting service, Hydrology and Water Resource Symposium HWRS2018, 3-8 December 2018, Melbourne
 
-U. Khan, S. C. Wells, P. Hapuarachchi, S. J. Cole, G. Amirthanathan, R. Laugesen, M. M. Hasan, N. Gamage, A. MacDonald, R. J. Moore, M. Bari and N. K. Tuteja (2018), Forecasting freshwater discharges to the Great Barrier Reef using semi-distributed and distributed hydrological models, HWRS2018, 3-8 December 2018, Melbourne
+U. Khan, S. C. Wells, P. Hapuarachchi, S. J. Cole, G. Amirthanathan, R. Laugesen, M. M. Hasan, N. Gamage, A. MacDonald, R. J. Moore, M. Bari and N. K. Tuteja (2018), Forecasting freshwater discharges to the Great Barrier Reef using semi-distributed and distributed hydrological models, Hydrology and Water Resource Symposium HWRS2018, 3-8 December 2018, Melbourne
 
 R. Laugesen, U. Khan, G. Amirthananthan, F. Cook, M. Hasan, P. Hapuarachchi, K. Plastow, D. Kent, M. Bari, N. K. Tuteja (2017), Forecasts of streamflow and water quality for catchments contributing to the Great Barrier Reef, 6th Queensland Coastal Conference 2017, 5-6 September 2017
 
